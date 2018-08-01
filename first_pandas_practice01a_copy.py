@@ -109,3 +109,5 @@ sub_data1 = pan_data1[(pan_data1['urbanrate'] <= 60) & (pan_data1['Extra column 
 print(sub_data1.head(n=3))
 # <= write to csv in pandas
 sub_data1.to_csv('/Users/RAhmed/WesleyanMOOC/Course01/Week02/practice_03.csv')
+
+# foo comment
